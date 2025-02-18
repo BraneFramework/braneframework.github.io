@@ -16,7 +16,8 @@ This site is split into a couple sub-sites, each with its own purpose:
 [Brane: A Specification](/specification) is the book for those who are intending to develop the framework or who want to know how it works. It documents the framework's internal workings, as well as provides a specification for how services communicate so they may be replaced by custom software running on the individual domains (hence it being a framework). In general, if you will be doing development about some part of the framework, you should start here.
 
 [Brane Code Documentation](/brane) is the documentation for the code itself. It's not really meant to be read from top to bottom, like the other books, but rather as a reference during development on existing code.
-[Policy-reasoner Documentation](/brane) is the same, but then for the policy-reasoner project
+
+[Policy-reasoner Documentation](/policy-reasoner) is the same, but then for the policy-reasoner project
 
 drawing Note that the documentation is generated specifically for a Linux x86/64 build. If you are developing or running Brane on a non-Linux or non-x86_64 machine, it might make sense to generate the documentation yourself instead; check cargo doc.
 
