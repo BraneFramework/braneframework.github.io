@@ -7,7 +7,7 @@ title: Welcome to BraneProject
 
 Welcome to the Brane framework
 
-<img src="assets/images/logo.png" alt="BraneProject Logo" style="max-width: 150px;">
+<img src="assets/images/logo.png" alt="BraneProject Logo" class="max-w-xs mx-auto mb-4">
 
 This site is split into a couple sub-sites, each with its own purpose:
 
